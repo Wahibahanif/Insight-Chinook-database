@@ -1,1 +1,1 @@
-# Insight-Chinook-database
+Insight-Chinook-database
